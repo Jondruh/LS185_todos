@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
-gem "sinatra", "~>1.4.7"
+ruby '3.2.2'
+gem "sinatra"
 gem "sinatra-contrib"
 gem "erubis"
+gem "rack"
+gem "rackup"
